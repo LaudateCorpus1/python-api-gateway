@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/googleapis/python-api-gateway/compare/v1.1.1...v1.2.0) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#99](https://github.com/googleapis/python-api-gateway/issues/99)) ([72f55a7](https://github.com/googleapis/python-api-gateway/commit/72f55a7285b161de6177e177f917b9ba70bce57d))
+
 ### [1.1.1](https://www.github.com/googleapis/python-api-gateway/compare/v1.1.0...v1.1.1) (2021-11-01)
 
 
